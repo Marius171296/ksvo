@@ -97,4 +97,6 @@ Wir helfen Dir gerne weiter!
 Dein kunterbuntes Sommerprogramm-Team
 Lisa-Marie, Jana, Nadine, Emilie und Melissa
 
+### Kontakt
+info-sommerprogramm@web.de
 
