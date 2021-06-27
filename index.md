@@ -3,7 +3,7 @@
 
 ## Fragen zum kunterbunten Sommerprogramm
 
-###Bis wann geht die Aktion? 
+### Bis wann geht die Aktion? 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marius171296/ksvo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
